@@ -1,5 +1,7 @@
 .more-screen .icon-row {
   margin-top: 35px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .more-suggestions {
